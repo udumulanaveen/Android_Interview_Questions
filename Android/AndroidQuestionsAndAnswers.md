@@ -1,4 +1,5 @@
 1. Difference between Shared and State Flow ?
+
 Ans: StateFlow :StateFlow starts with a value you give it and shares it as soon as someone starts listening. 
 It works mostly like LiveData. LiveData stops sharing automatically when the screen isn't showing anymore. With
 StateFlow, you’ll have to stop sharing manually, but if you use repeatOnLifeCycle, you can achieve similar behaviour as
