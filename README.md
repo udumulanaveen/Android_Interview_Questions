@@ -1,7 +1,3 @@
-Here's a full README template for your Android interview questions GitHub repository:
-
----
-
 # Android Interview Questions
 
 Welcome to the **Android Interview Questions** repository! This repo is a curated list of common interview questions related to Android development, helping developers prepare for Android job interviews at all levels. Whether you're a beginner, intermediate, or advanced Android developer, these questions cover a broad range of topics to boost your knowledge and skills.
