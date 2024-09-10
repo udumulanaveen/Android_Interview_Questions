@@ -76,7 +76,3 @@ This repository is ideal for:
 ## License
 
 This repository is licensed under the MIT License. Feel free to use the questions for your own interview preparation or to contribute back to the community!
-
----
-
-This should make your repository more engaging and useful for developers looking to prepare for Android interviews. Would you like to make any edits or add more sections?
